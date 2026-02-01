@@ -24,5 +24,4 @@ A modern expense tracker built using **React (JSX)** and **Tailwind CSS** that h
 - Lucide Icons
 - Browser localStorage
 
-## 📂 Project Structure
 
